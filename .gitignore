@@ -8,3 +8,5 @@ shim/out/
 xnu/out/
 xnu/out-*/
 __pycache__/
+kernel-xiaomi-mt6765/
+kernel-xiaomi-mt6765/
