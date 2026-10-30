@@ -184,3 +184,4 @@ jobs:
           name: xnu-kernel
           path: out/
           if-no-files-found: warn
+# Workflow registration trigger: Fri Oct 30 11:16:03 MSK 2026
